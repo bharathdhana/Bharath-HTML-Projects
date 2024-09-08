@@ -1,0 +1,19 @@
+@font-face{
+	src:url("RammettoOne-Regular.ttf");
+	font-family: RammettoOne-Regular;
+}
+body{
+	font-family: 'RammettoOne-Regular',sans-serif;
+	color:whitesmoke;
+	background: whitesmoke;
+}
+.ad{
+	background: #35654d;
+	border: 5px solid #A3BC71;
+	text-align: center;
+}
+.cta{
+	border: 2px solid #A3BC71;
+	padding: 5px 10px;
+	background: #8F4737;
+}

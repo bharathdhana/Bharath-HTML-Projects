@@ -1,0 +1,15 @@
+body{
+	letter-spacing: 4px;
+	background: #b7111b;
+	color:whitesmoke;
+	text-align: center;
+	font-family: 'Kanit-Bold',sans-serif;
+}
+
+h1{
+	font-size: 80px;
+	/*text-Shadow attribute working
+		Offset-Horizontal, Offset-Vertical, Blurr, Color
+	*/
+	text-shadow: 5px -5px 5px black;
+}

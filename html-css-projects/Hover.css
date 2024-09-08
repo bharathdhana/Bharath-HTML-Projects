@@ -1,0 +1,12 @@
+div{
+	color:white;
+	background: #e5383b;
+	text-align:center;
+	margin: 5px;
+	font-size: 30px;
+	font-weight: bold;
+}
+div:hover{
+	background-color:#ba181b;
+	font-size: 43px;
+}

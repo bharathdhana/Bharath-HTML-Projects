@@ -1,0 +1,29 @@
+body{
+	margin: 20px;
+	text-align: center;
+	font-family: Verdana,Geneva,Tahoma,sans-serif;
+
+}
+.avatar{
+
+	width: 230px;
+
+}
+.card{
+	/*border:1px dotted blue;*/
+	margin: 0 auto;
+	
+	width:400px;
+	padding: 20px 20px;
+	display: flex;
+	justify-content:space-evenly;
+	color:#2b2839;
+	background: #ddebf8;
+	border-bottom: 6px solid #d8cefe;
+}
+.border-blue{
+	border: 1px dotted blue;
+}
+/*.italic{
+	font-style: italic;
+}*/

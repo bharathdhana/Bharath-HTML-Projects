@@ -1,0 +1,101 @@
+.happy-monkey-regular {
+  font-family: 'Happy Monkey',cursive,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+html
+{
+
+}
+
+body{
+	background: linear-gradient(lightblue,lightpink);
+	text-align: center;
+/*	background: #a2d2ff;*/
+	color: #ffffff;
+	
+
+}
+
+#bff-img{
+	width: 150px;
+	border-radius: 50%;
+	border: 8px solid #EFB0C9;
+
+
+}
+h1, h3, h4, p {
+	text-shadow: 0px 0px 1px black;
+}
+#age, #date {
+	margin: 0;
+	background: #EFB0C9;
+	padding: 5px 10px;
+	border-radius: 5px;
+	margin: 5px 0 10px 0;
+	
+}
+.header{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.gift-section{
+	margin-top: 50px;
+}
+.gift-title{
+	margin-bottom: 10px;
+}
+.gift-hint{
+	margin-top: 0;
+}
+
+.gift-img{
+	width: 400px;
+	height: 400px;
+	/* Gradient Color attribute */
+	
+	 background-image: url("gift.jpg"); 
+	background-size:cover;
+	border:5px solid white;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+
+#gift-img-happy:hover {
+	background-image: url("friends.gif");
+	background-size: cover;
+}
+
+#gift-img-cheer:hover{
+	background-image: url("friends2.gif");
+	background-size: cover;
+}
+
+#gift-img-good:hover{
+	background-image: url("peter2.gif");
+	background-size: cover;
+}
+
+#gift-img-bad:hover{
+	background-image: url("tobey-gaze.gif");
+	background-size: cover;
+}
+
+#gift-img-cheers{g
+	height: 200px;
+}
+
+#gift-img-cheers:hover{
+	background-image: url("dicaprio-drink.gif");
+	background-size: cover;
+}
+
+#footer{
+	width: 400px;
+	margin: 40px auto 20px;
+}
